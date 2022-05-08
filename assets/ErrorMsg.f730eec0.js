@@ -1,0 +1,1 @@
+import{_ as r}from"./index.4c48ccff.js";import{o as s,c as t,t as a,d as o}from"./vendor.db9d2b8c.js";const _={name:"ErrorMsg",props:{message:String}},c={key:0,class:"error"};function n(m,d,e,i,p,g){return e.message?(s(),t("div",c,a(e.message),1)):o("",!0)}var f=r(_,[["render",n],["__scopeId","data-v-3aa1792e"]]);export{f as E};
